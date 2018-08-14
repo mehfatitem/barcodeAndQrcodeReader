@@ -36,7 +36,7 @@ namespace BarocodeReader
                         await Navigation.PopAsync();
                         try
                         {
-                            DependencyService.Get<IAudio>().PlayAudioFile("http://m.egm.gov.tr/egm_cocuk/barcode_voice.mp3");
+                            DependencyService.Get<IAudio>().PlayAudioFile("yor_remote_voice_url");
                             //DependencyService.Get<IAudio>().PlayAudioFileFromLocal("barcode_voice.mp3");
                         }
                         catch(Exception ex)

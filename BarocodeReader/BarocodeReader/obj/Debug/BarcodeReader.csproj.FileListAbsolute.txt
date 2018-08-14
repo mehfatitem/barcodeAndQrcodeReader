@@ -1,0 +1,41 @@
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\BarocodeReader.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\BarocodeReader.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\zxing.portable.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXingNetMobile.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarcodeReader.csprojResolveAssemblyReference.cache
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.ScanPage.xaml.g.cs
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\BarocodeReader.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\BarocodeReader.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\AudioManager.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Plugin.SimpleAudioPlayer.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\zxing.portable.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXingNetMobile.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Plugin.SimpleAudioPlayer.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarcodeReader.csprojResolveAssemblyReference.cache
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.ScanPage.xaml.g.cs
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.pdb

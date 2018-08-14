@@ -1,0 +1,137 @@
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\BarcodeReader.Droid.csprojResolveAssemblyReference.cache
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid.apk
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid-Signed.apk
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\ZXing.Net.Mobile.Forms.Android.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\zxing.portable.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\ZXingNetMobile.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\BarocodeReader.Droid.dll
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\BarocodeReader.Droid.pdb
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\bin\BarocodeReader.Droid.apk
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\values\styles.xml
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\R.cs.flag
+C:\Users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\uploadflags.txt
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid.apk
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid-Signed.apk
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\AudioManager.Droid.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Plugin.SimpleAudioPlayer.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\ZXing.Net.Mobile.Forms.Android.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\zxing.portable.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\ZXingNetMobile.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\AudioManager.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Plugin.SimpleAudioPlayer.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Plugin.SimpleAudioPlayer.xml
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\BarcodeReader.Droid.csprojResolveAssemblyReference.cache
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\BarocodeReader.Droid.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\BarocodeReader.Droid.pdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\bin\BarocodeReader.Droid.apk
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\res\values\styles.xml
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\R.cs.flag
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\uploadflags.txt
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\assets\BarocodeReader.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\assets\BarocodeReader.Droid.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\assets\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Droid\bin\Debug\BarocodeReader.Droid.dll
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\BarocodeReader.dll
+bin\Debug\BarocodeReader.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\BarocodeReader.Droid.dll.mdb
+obj\Debug\linksrc\BarocodeReader.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.SimpleAudioPlayer.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\Plugin.SimpleAudioPlayer.Abstractions.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

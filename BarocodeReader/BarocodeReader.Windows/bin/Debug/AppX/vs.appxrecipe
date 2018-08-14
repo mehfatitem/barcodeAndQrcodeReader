@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>INT1BTDYZL234</Machine>
+    <WindowsUser>940144</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5ce97132-6c31-49a6-b17a-b4a7a197d49b</PackageIdentityName>
+    <PackageIdentityPublisher>CN=940144</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>DE429EA1C9BA5309DF54FC491EA5A5A964593A7CE514D6DDFC1FD332119929F5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5ce97132-6c31-49a6-b17a-b4a7a197d49b_1.0.0.0_neutral__8a3mn3ae9gc8g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5ce97132-6c31-49a6-b17a-b4a7a197d49b_8a3mn3ae9gc8g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5ce97132-6c31-49a6-b17a-b4a7a197d49b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=940144</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-04T13:28:26.468</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\bin\Debug\BarocodeReader.Windows.exe">
+      <PackagePath>BarocodeReader.Windows.exe</PackagePath>
+      <Modified>2018-07-04T13:28:24.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\BarocodeReader.dll">
+      <PackagePath>BarocodeReader.dll</PackagePath>
+      <Modified>2018-07-04T13:15:35.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2018-06-22T07:14:28.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2018-06-22T07:14:28.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2018-06-22T07:14:28.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2018-06-22T07:14:28.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2018-06-22T07:14:28.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\ZXing.Net.Mobile.2.1.47\lib\portable-net45+netcore45+wpa81+wp8\ZXing.Net.Mobile.Core.dll">
+      <PackagePath>ZXing.Net.Mobile.Core.dll</PackagePath>
+      <Modified>2016-08-24T16:02:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\ZXing.Net.Mobile.Forms.2.1.47\lib\portable-net45+netcore45+wpa81+wp8\ZXing.Net.Mobile.Forms.dll">
+      <PackagePath>ZXing.Net.Mobile.Forms.dll</PackagePath>
+      <Modified>2016-08-24T16:02:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\ZXing.Net.Mobile.2.1.47\lib\portable-net45+netcore45+wpa81+wp8\zxing.portable.dll">
+      <PackagePath>zxing.portable.dll</PackagePath>
+      <Modified>2016-08-24T16:02:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\ZXing.Net.Mobile.2.1.47\lib\portable-net45+netcore45+wpa81+wp8\ZXingNetMobile.dll">
+      <PackagePath>ZXingNetMobile.dll</PackagePath>
+      <Modified>2016-08-24T16:02:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-04T11:40:04.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-04T11:40:04.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-04T11:40:04.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-04T11:40:04.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\bin\Debug\BarocodeReader.Windows.xr.xml">
+      <PackagePath>BarocodeReader.Windows.xr.xml</PackagePath>
+      <Modified>2018-07-04T13:28:24.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-07-04T13:28:24.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-07-04T13:28:24.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2018-06-22T07:14:28.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2018-06-22T07:14:28.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2018-06-22T07:14:28.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2018-06-22T07:14:28.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2018-06-22T07:14:28.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2018-06-22T07:14:28.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2018-06-22T07:14:28.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-04T13:28:25.550</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

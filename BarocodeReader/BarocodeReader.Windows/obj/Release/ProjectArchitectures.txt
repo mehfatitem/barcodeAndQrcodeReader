@@ -1,0 +1,2 @@
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader.Windows\BarcodeReader.Windows.csproj;neutral
+C:\Users\940144\Desktop\BarocodeReader\BarocodeReader\BarocodeReader\BarcodeReader.csproj;neutral

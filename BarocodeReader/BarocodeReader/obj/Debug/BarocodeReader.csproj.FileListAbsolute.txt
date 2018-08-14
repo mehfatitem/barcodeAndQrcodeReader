@@ -1,0 +1,17 @@
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\BarocodeReader.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\BarocodeReader.pdb
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXing.Net.Mobile.Core.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXing.Net.Mobile.Forms.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\zxing.portable.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\ZXingNetMobile.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.dll
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.pdb
+c:\users\30401160140\documents\visual studio 2015\Projects\BarocodeReader\BarocodeReader\BarocodeReader\obj\Debug\BarocodeReader.csprojResolveAssemblyReference.cache
